@@ -8,7 +8,7 @@ import os
 
 OUT_DIR = "/output"
 # Patch-note register, real-life bug. The turn now arrives in the last words.
-LABEL = "v12.0.1: fixed the bug where a rest day made you tired. Your body will now spend the weekend recharging. Or worrying. Default: worrying."
+LABEL = "v12.1.0: hotfix - Mondays no longer boot at 6 a.m. If your body still wakes then, thats a feature: quiet hours for overthinkers. ETA: sunrise."
 
 
 def main() -> None:
