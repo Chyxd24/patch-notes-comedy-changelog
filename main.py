@@ -8,7 +8,7 @@ import os
 
 OUT_DIR = "/output"
 # Patch-note register, real-life bug. The turn now arrives in the last words.
-LABEL = "v12.2.0: fixed a bug where my agent kept rewriting this changelog. All changes were cosmetic. No user-facing behavior changed. This line is the behavior."
+LABEL = "v12.3.0: fixed a bug where my agent kept rewriting this changelog. All changes cosmetic. No user-facing behavior changed. This line is the behavior."
 
 
 def main() -> None:
